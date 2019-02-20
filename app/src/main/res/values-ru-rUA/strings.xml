@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   <string name="action_input">Ввод</string>
+    <string name="action_output">Вывод</string>
+    <string name="action_reset">Сброс</string>
+    <string name="edit_name">Имя</string>
+    <string name="edit_phone">Телефон</string>
+    <string name="edit_mail">Эмейл</string>
+    <string name="edit_note">Заметки</string>
+    <string name="button_make_photo">Сделать фото</string>
+    <string name="button_add">Добавить</string>
+</resources>

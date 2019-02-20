@@ -1,0 +1,23 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.testtask.androiddev.activity.MainActivity">
+
+    <item
+        android:id="@+id/action_input"
+        android:orderInCategory="100"
+        android:title="@string/action_input"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_output"
+        android:orderInCategory="100"
+        android:title="@string/action_output"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_reset"
+        android:orderInCategory="100"
+        android:title="@string/action_reset"
+        app:showAsAction="never" />
+</menu>

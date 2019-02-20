@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name" translatable="false">Test task_Android dev</string>
+    <string name="title_activity_camera" translatable="false">Camera Activity</string>
+    <string name="title_input_fragment" translatable="false">Input Fragment</string>
+    <string name="title_output_fragment" translatable="false">Output Fragment</string>
+    <string name="camera_camera_fragment" translatable="false">Camera Fragment</string>
+    <string name="camera_photo_fragment" translatable="false">Photo Fragment</string>
+    <string name="action_input">Input</string>
+    <string name="action_output">Output</string>
+    <string name="action_reset">Reset</string>
+    <string name="edit_name">Name</string>
+    <string name="edit_phone">Phone</string>
+    <string name="edit_mail">Mail</string>
+    <string name="edit_note">Note</string>
+    <string name="button_make_photo">Make photo</string>
+    <string name="button_add">Add</string>
+
+</resources>
